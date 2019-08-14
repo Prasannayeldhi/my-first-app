@@ -8,7 +8,7 @@ import { sanitizeIdentifier } from '@angular/compiler';
 })
 export class AppComponent {
   a:number=10;
-  b:number=10;
+  b:number=11;
   substractionResult:number;
   multiplicationResult:number;
   divisionResult:number;
